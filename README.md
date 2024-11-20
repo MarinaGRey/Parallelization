@@ -5,7 +5,7 @@ This project explores the use of multiprocessing and shared memory in Python for
 
 ### Authors
 - Marina Gómez Rey
-- Miguel Fernández Lara 
+- [Miguel Fernández Lara](https://github.com/mifer29)
 - **Date:** October 20, 2024
 
 ---
